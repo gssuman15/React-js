@@ -55,8 +55,7 @@ const Work = () => {
            <div style={{top:"-14rem", left:""}}>
            <div style={{ top: "-20rem", left: "33rem" }} className="w-backCircle blueCircle"></div>
             <div style={{ top: "-10rem", left: "37.5rem" }} className="w-backCircle yellowCircle"></div>
-           </div>
-          
+           </div>          
         </div>
       </div>
     </div>

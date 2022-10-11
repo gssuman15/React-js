@@ -17,7 +17,7 @@ function App() {
      <Intro/>
      <Services/>
      <Experience/>
-     <Work/>
+     {/* <Work/> */}
      <PortFolio/>
      <Testimonial/>
      <Contact/>
